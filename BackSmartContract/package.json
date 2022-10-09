@@ -1,0 +1,25 @@
+{
+  "name": "pomp_1",
+  "version": "1.0.0",
+  "description": "pomp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@semaphore-protocol/contracts": "^2.5.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@semaphore-protocol/group": "^2.5.0",
+    "@semaphore-protocol/hardhat": "^0.1.0",
+    "@semaphore-protocol/identity": "^2.5.0",
+    "@semaphore-protocol/proof": "^2.5.0",
+    "ethers": "^5.7.1",
+    "hardhat": "^2.11.2"
+  }
+}

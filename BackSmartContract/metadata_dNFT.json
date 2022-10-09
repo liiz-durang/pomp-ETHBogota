@@ -1,0 +1,21 @@
+
+{
+    
+    "attributes" : [ {
+      "trait_type" : "Idioma",
+      "value" : "Español"
+    }, {
+      "trait_type" : "Gender",
+      "value" : "Female"
+    },{
+      "trait_type" : "Mentor-level",
+      "value" : "Beginner"
+    },{
+        "trait_type" : "Developer",
+        "value" : "Beginner"
+    } ],
+    "description" : "POMP: Proof of Mentorship Protocol",
+    "image" : "gateway.pinata.cloud/ipfs/QmTfpvA6YbbyWbXQuhoVqFr4o3utg4pZnRjVEkDRx3nSz8",
+    "name" : "POMP"
+    
+}
